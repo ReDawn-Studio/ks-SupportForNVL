@@ -2,16 +2,33 @@
   "name": "ks-SupportForNVL",
   "displayName": "ks-support",
   "description": "The language support fot ks",
+  "publisher": "TosukeLi",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
+  },
+  "keywords": [
+    "ks",
+    "Kirikiri",
+    "NVL",
+    "language support"
+  ],
+  "icon": "images/wa.jpg",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReDawn-Studio/ks-SupportForNVL"
+  },
+  "homepage": "https://github.com/ReDawn-Studio/ks-SupportForNVL",
+  "bugs": {
+    "url": "https://github.com/ReDawn-Studio/ks-SupportForNVL/issues",
+    "email": "1848228664@qq.com"
   },
   "categories": [
     "Programming Languages"
   ],
   "main": "./dist/extension.js",
   "activationEvents":[
-    "*"
   ],
   "compilerOptions": {
     "module": "CommonJS"
