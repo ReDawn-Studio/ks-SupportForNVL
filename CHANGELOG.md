@@ -1,9 +1,8 @@
-# Change Log
+# 更改日志
 
-All notable changes to the "tjs-support" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1
+添加了代码补全的功能，新增了内置了部分函数说明
 
 ## [Unreleased]
 
-- Initial release
+- 初始化
